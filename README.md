@@ -1,1 +1,27 @@
 # Zomato-Sales-Analysis-
+ Goal :
+ To analyze restaurant data from Zomato to uncover insights on ratings, pricing, location trends, and cuisine popularity, enabling better decision-making for food enthusiasts and restaurant owners.
+
+Process:
+1) Data Cleaning & Preparation (Power Query)
+Removed duplicate entries and standardized restaurant names.
+Fixed missing values for ratings, price range, and location.
+Converted categorical data (like cuisines and city names) into structured formats.
+
+2️) Data Analysis (DAX & Power BI)
+Created measures using DAX for average cost, total number of cuisines, and restaurant count per location.
+Applied CALCULATE, SUMX, AVERAGE, and COUNTROWS to generate meaningful insights.
+
+3️) Data Visualization (Power BI)
+Used bar charts to display the most popular cuisines.
+Implemented pie charts to represent restaurant distribution by country and city.
+Designed a bar chart with a line graph overlay to show cuisine count vs. aggregate rating by restaurant.
+Added KPI indicators for total cuisines, cities, and countries to provide quick insights.
+Integrated interactive slicers for filtering by online delivery availability and current delivery status.
+
+
+Key Impact:
+Helped identify the most popular cuisines in India, aiding restaurant owners in menu planning.
+Showcased the restaurant distribution by country, city, and locality, providing insights into market penetration.
+Highlighted customer preferences through aggregate ratings, allowing businesses to refine their offerings.
+Provided a user-friendly interface for quick filtering and comparison of restaurant data.
