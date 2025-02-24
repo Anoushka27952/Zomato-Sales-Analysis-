@@ -4,9 +4,8 @@
 
 Process:
 1) Data Cleaning & Preparation (Power Query)
-Removed duplicate entries and standardized restaurant names.
-Fixed missing values for ratings, price range, and location.
-Converted categorical data (like cuisines and city names) into structured formats.
+Removed duplicate restaurant entries to ensure data accuracy.
+Standardized city and cuisine names for consistency.
 
 2️) Data Analysis (DAX & Power BI)
 Created measures using DAX for average cost, total number of cuisines, and restaurant count per location.
