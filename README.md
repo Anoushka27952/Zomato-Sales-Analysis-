@@ -9,7 +9,7 @@ Standardized city and cuisine names for consistency.
 
 2️) Data Analysis (DAX & Power BI)
 Created measures using DAX for average cost, total number of cuisines, and restaurant count per location.
-Applied CALCULATE, SUMX, AVERAGE, and COUNTROWS to generate meaningful insights.
+Applied COUNT, DISTINCTCOUNTNONBLANK and AVERAGE to generate meaningful insights.
 
 3️) Data Visualization (Power BI)
 Used bar charts to display the most popular cuisines.
