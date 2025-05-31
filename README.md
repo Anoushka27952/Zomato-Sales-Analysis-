@@ -2,6 +2,7 @@
  Goal :
  To analyze restaurant data from Zomato to uncover insights on ratings, pricing, location trends, and cuisine popularity, enabling better decision-making for food enthusiasts and restaurant owners.
 
+Tools Used:Power BI
 Process:
 1) Data Cleaning & Preparation (Power Query)
 Removed duplicate restaurant entries to ensure data accuracy.
